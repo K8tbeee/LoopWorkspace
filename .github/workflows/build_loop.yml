@@ -218,6 +218,8 @@ jobs:
           now_line \
           meal_week \
           negative_insulin 
+          2hlollipop \
+          profiles \
 
           # the final customization listed above CANNOT have a continuation character
           # more customizations can be pasted after this line
