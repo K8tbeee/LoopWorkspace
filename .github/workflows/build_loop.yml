@@ -218,7 +218,6 @@ jobs:
           now_line \
           2hlollipop \
           meal_days \
-          meal_week \
           profiles \
           negative_insulin
 
